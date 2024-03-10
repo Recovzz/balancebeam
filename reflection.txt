@@ -1,0 +1,21 @@
+Did you finish all of the milestones? What did/didn’t you attempt? Are there any remaining bugs that you’re aware of?
+Nous avons terminé les trois premiers Milestones. 
+
+What did you like about this assignment? What did you not like about it?
+Nous avons apprécié le thème général du projet, qui était très intéressant à mettre en place. 
+Cependant, nous n'avons pas aimé la formulation du projet sur le site de Stanford, qui pour nous n'était pas très explicite pour le début du projet.
+
+Were there any parts you got stuck on?
+Nous avons rencontré des difficultés importantes lors du Milestone 3, où nous avons été bloqués pendant un certain temps en raison d'un problème d'implémentation de la fonctionnalité. 
+Nous avons réussi à terminer juste à temps. 
+De plus, nous avons eu du mal à prendre en main le projet et à comprendre où et comment commencer, mais une fois lancés, cela s'est mieux passé.
+
+Did you try anything to improve performance?
+Nous avons eu des difficultés à atteindre le Milestone 3, donc non, nous n'avons pas essayé d'améliorer les performances dans les temps impartis. 
+À l'avenir, nous pourrions envisager des mesures pour améliorer la performance.
+
+If you were continuing to work on this project, what might be a next thing you would implement? (Additional features? A way to improve performance?)
+Si nous devions continuer à travailler sur ce projet, nous chercherions à améliorer la vitesse en parallélisant les threads, comme prévu dans le Milestone 4.
+
+What surprised you? What did you learn?
+Nous avons trouvé le projet assez complexe au début, car c'était un nouveau langage pour nous. Cependant, nous avons appris beaucoup de choses sur le langage Rust, ce qui était une bonne expérience.
